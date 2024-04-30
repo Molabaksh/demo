@@ -1,3 +1,3 @@
 # demo
 this demo project 
-practice 
+practices
